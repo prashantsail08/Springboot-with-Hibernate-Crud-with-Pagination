@@ -1,11 +1,11 @@
 # Springboot-with-Hibernate-Crud-with-Pagination
 Springboot with Hibernate Crud Operation with Pagination 
 
->> Used Spring boot
->> Used Rest controller
->> Used DB configuration
->> Used annotation based configuration (Not XML).
->> JPA & Hibernate
+- Used Spring boot
+- Used Rest controller
+- Used DB configuration
+- Used annotation based configuration (Not XML).
+- JPA & Hibernate
 
 1) Category CRUD operation.
 GET all the categories
